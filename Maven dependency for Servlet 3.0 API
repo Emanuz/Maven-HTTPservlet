@@ -1,0 +1,11 @@
+<repository>
+    <id>java.net</id>
+    <url>http://download.java.net/maven/2</url>
+</repository>
+
+<dependency>
+    <groupId>javax</groupId>
+    <artifactId>javaee-api</artifactId>
+    <version>6.0</version>
+    <scope>provided</scope>
+</dependency>
